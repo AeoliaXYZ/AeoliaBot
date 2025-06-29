@@ -1,0 +1,20 @@
+{
+  "name": "aeoliabot",
+  "version": "1.0.0",
+  "description": "Aeolia Discord Bot",
+  "homepage": "https://github.com/AeoliaXYZ/AeoliaBot#readme",
+  "bugs": {
+    "url": "https://github.com/AeoliaXYZ/AeoliaBot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AeoliaXYZ/AeoliaBot.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "AeoliaXYZ",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
